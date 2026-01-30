@@ -1,0 +1,13 @@
+- https://arijitkundu.hashnode.dev/dns-record-types-explained?showSharer=true
+- https://arijitkundu.hashnode.dev/getting-started-with-curl?showSharer=true
+- https://arijitkundu.hashnode.dev/git-for-beginners-basics-and-essential-commands?showSharer=true
+- https://arijitkundu.hashnode.dev/how-dns-resolution-works-a-simple-practical-guide?showSharer=true
+- https://arijitkundu.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder?showSharer=true
+- https://arijitkundu.hashnode.dev/why-version-control-exists-the-pendrive-problem?showSharer=true
+- https://arijitkundu.hashnode.dev/understanding-network-devices-a-simple-hardware-first-guide?showSharer=true
+- https://arijitkundu.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http?showSharer=true
+- https://arijitkundu.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication?showSharer=true
+- https://arijitkundu.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals?showSharer=true
+- https://arijitkundu.hashnode.dev/understanding-html-tags-and-elements?showSharer=true
+- https://arijitkundu.hashnode.dev/css-selectors-101-targeting-elements-with-precision?showSharer=true
+- https://arijitkundu.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup?showSharer=true
